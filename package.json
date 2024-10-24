@@ -1,0 +1,12 @@
+{
+  "name": "pelilauta-schemas",
+  "version": "2.0.0-alpha.1",
+  "description": "Zod powered schemas for Pelilauta 16 and beyond",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
